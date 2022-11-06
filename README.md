@@ -5,7 +5,7 @@
 Under this project I have created a website Fruitage , which is an online organic fruit store and will make it feasible for the people to move to a better and helthier fruit diet . 
 
 # Azure Technology used in this project :-
-1. Static WebApps   2. Web Apps
+1. Static WebApps   2. Web Apps     
 I was inspired to use these technologies as because it has key features such as :-
 a) Web Hosting for Static content like HTML , CSS , Javascript and images . 
 b) Ubiquitous distributed static content , making it closer to the user . 
