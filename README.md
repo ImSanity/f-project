@@ -2,7 +2,7 @@
   project demo link : https://thankful-tree-0d589a110.2.azurestaticapps.net/
   
 # Fruitage
-Under this project I have created a website Fruitage , which is an online organic fruit store and will make it feasible for the people to move to a better and helthier fruit diet . 
+Under this project I have created a website Fruitage , which is an online organic fruit store and will make it feasible for the people to move to a better and helthier fruit diet and also encourages people to themselves grow these in their gardens .
 
 # Azure Technology used in this project :-
 1. Static WebApps   2. Web Apps     
